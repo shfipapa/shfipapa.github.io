@@ -1,0 +1,26 @@
+body {
+  margin-top: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+#freshintro {
+  color: pink;
+  font-style: bold;
+  font-weight:400;
+}
+#Happyintro {
+  color: skyblue;
+  font-style: bold;
+  font-weight:400;
+}
+#Beautyintro {
+  color: orange;
+  font-style: bold;
+  font-weight:400;
+}
+.detail {
+  color: purple;
+}
+h4 {
+  font-style: oblique;
+  color: gray;
+}
